@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;demo&gt;">
+    <CLASSES>
+      <root url="file://D:/Go/bin/src/github.com" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://D:/Go/bin/src/github.com/go-sql-driver/mysql/.git" />
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

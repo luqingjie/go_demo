@@ -1,0 +1,18 @@
+git init
+ssh-keygen -t rsa -C "your_email@youremail.com"
+上传pub
+ssh -T git@github.com
+git config --global user.name "your name"
+git config --global user.email "your_email@youremail.com"
+
+//
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/youproaddress.git
+git push -u origin master
+
+//
+git pull origin master //先把远程服务器github上面的文件拉下来
+git push origin master
+
+git add . 或者 git add --all

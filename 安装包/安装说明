@@ -1,0 +1,5 @@
+1.安装git
+2.安装go
+3.环境变量配置：GOPATH=D:\Go\bin  GOROOT=D:\Go
+4.path 加入git环境变量D:\Program Files\Git\bin;
+4.安装go get github.com/go-sql-driver/mysql
