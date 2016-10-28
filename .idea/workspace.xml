@@ -22,12 +22,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="github上传.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/git/github上传.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+=======
+      <file leaf-file-name="demo1.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo1.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="97" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#299#0" expanded="true" />
+              </folding>
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
             </state>
           </provider>
         </entry>
@@ -85,7 +96,10 @@
       <sortByType />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -94,6 +108,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="demo" />
@@ -148,6 +163,11 @@
           </PATH>
         </subPane>
       </pane>
+=======
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
       <pane id="Scope" />
     </panes>
   </component>
@@ -164,7 +184,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="E:\go_ws\go_demo" />
+=======
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
       <recent name="E:\go_ws\demo\数据库文件" />
       <recent name="E:\go_ws\demo\安装包" />
     </key>
@@ -447,7 +470,11 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#14#299#0" expanded="false" />
+=======
+            <element signature="e#14#299#0" expanded="true" />
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
           </folding>
         </state>
       </provider>
@@ -457,7 +484,11 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#14#299#0" expanded="false" />
+=======
+            <element signature="e#14#299#0" expanded="true" />
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
           </folding>
         </state>
       </provider>
@@ -467,7 +498,11 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#14#299#0" expanded="false" />
+=======
+            <element signature="e#14#299#0" expanded="true" />
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
           </folding>
         </state>
       </provider>
@@ -477,7 +512,11 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#14#299#0" expanded="false" />
+=======
+            <element signature="e#14#299#0" expanded="true" />
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
           </folding>
         </state>
       </provider>
@@ -487,7 +526,11 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#14#299#0" expanded="false" />
+=======
+            <element signature="e#14#299#0" expanded="true" />
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
           </folding>
         </state>
       </provider>
@@ -497,11 +540,16 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#14#299#0" expanded="false" />
+=======
+            <element signature="e#14#299#0" expanded="true" />
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/demo1.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -509,6 +557,12 @@
           <folding>
             <element signature="e#14#299#0" expanded="false" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/安装包/安装说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09390445">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
         </state>
       </provider>
     </entry>
@@ -535,6 +589,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/安装包/安装说明">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09390445">
@@ -569,6 +624,25 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+=======
+    <entry file="file://$PROJECT_DIR$/数据库文件/db_go.sql">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27941176">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#299#0" expanded="true" />
+          </folding>
+>>>>>>> 423357bee65c1b901028946dfbc9996aea6c205a
         </state>
       </provider>
     </entry>
